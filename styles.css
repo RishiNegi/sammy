@@ -1,0 +1,68 @@
+/* styles.css */
+
+/* General Styles */
+body {
+  margin: 0;
+}
+
+/* First Section */
+.first-section {
+  background-image: url('background.jpg');
+  background-size: cover;
+  height: 480px;
+  padding-top: 80px;
+  text-align: center;
+}
+
+.first-section img {
+  height: 150px;
+  border-radius: 50%;
+  border: 10px solid #FEDE00;
+}
+
+.first-section h1 {
+  font-size: 100px;
+  color: white;
+  margin: 10px;
+}
+
+.first-section p {
+  font-size: 30px;
+  color: white;
+}
+
+.first-section a {
+  font-size: 20px;
+  color: #1F9AFE;
+  text-decoration: none;
+}
+
+/* Second Section */
+.second-section-img {
+  height: 600px;
+  margin: 100px;
+  float: left;
+}
+
+.second-section {
+  height: 600px;
+  margin: 100px;
+}
+
+.second-section p {
+  line-height: 2.0;
+  font-size: 20px;
+}
+
+/* Footer */
+.footer {
+  height: auto;
+  background-color: #F7C201;
+}
+
+.footer h1 {
+  color: white;
+  padding: 40px;
+  margin: 0;
+  text-align: center;
+}
